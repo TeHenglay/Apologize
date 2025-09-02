@@ -2,7 +2,7 @@
 
 A beautiful, interactive website created with love to express heartfelt apologies. Features modern web technologies, stunning animations, and engaging user interactions.
 
-![Website Preview](https://apologize.laszlo.icu/)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-apologize.laszlo.icu-ff69b4?style=for-the-badge)](https://apologize.laszlo.icu/)
 
 ## 🌟 Features
 
